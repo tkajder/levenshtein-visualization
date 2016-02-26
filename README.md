@@ -4,7 +4,7 @@ levenshtein-visualizataion is a small project to investigate the edit path of th
 
 Requirements
 ------------
-The application was written on Debian jessie using openjdk 1.8, however should run on any java version >=1.6 and any platform. The program uses maven to fetch jung, colt, apache commons, and other libraries.
+The application was written on Debian jessie using openjdk 1.8 in the Jetbrains Idea IDE, however should run on any java version >=1.6 and any platform. The program uses maven to fetch jung, colt, apache commons, and other libraries.
 
 Screenshots
 -----------
